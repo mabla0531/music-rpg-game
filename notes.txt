@@ -1,6 +1,0 @@
-game is turn based, but turns are executed at the same time 
-turns are executed at the tempo of the current song
-need to have song structure that holds tempo and sound path, length, etc. 
-
-initially, make a way for the game to be ticked with a key
-then replace with a loop that ticks every bpm of the current song 
